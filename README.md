@@ -1,2 +1,3 @@
 # digital-talent
-Repositori untuk Digital Talent
+Repositori untuk Program Digital Talent 2018
+Big Data Analytics
